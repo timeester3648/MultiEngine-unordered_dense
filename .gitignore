@@ -12,3 +12,9 @@ compile_commands.json
 *.pcm
 a.out
 *.o
+
+# exclude project files
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
